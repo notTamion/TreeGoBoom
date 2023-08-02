@@ -1,0 +1,8 @@
+name: TreeGoBoom
+version: '${project.version}'
+main: de.tamion.TreeGoBoom
+authors: [Tamion]
+description: Tree goes Boom
+
+commands:
+  settreeexplosionpower:
